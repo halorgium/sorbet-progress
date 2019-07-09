@@ -18,7 +18,7 @@ Gem::Specification.new do |spec|
   spec.bindir = "bin"
   spec.executables = ["sorbet_progress"]
   spec.require_paths = ["lib"]
-  spec.required_ruby_version = ">= 2.6.3"
+  spec.required_ruby_version = ">= 2.5.0"
   spec.required_rubygems_version = ">= 3.0.3"
 
   lambda {
